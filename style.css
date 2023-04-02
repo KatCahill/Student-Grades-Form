@@ -1,6 +1,9 @@
 body{
     background-color:rgb(128, 59, 59) !important;
 }
+h1{
+color:white;
+}
 
 .wrapper-1{
     width: 30%;
